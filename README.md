@@ -1,3 +1,6 @@
+Hi Renzo! This Chandra Purnama
+Please pull this modified repository
+
 
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
